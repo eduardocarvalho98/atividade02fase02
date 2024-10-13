@@ -1,0 +1,14 @@
+[
+    {
+        "produto_id": 1,
+        "produto_nome": "Goiaba",
+        "comercio_id": 1,
+        "comercio_nome": "Eduardo Frutas"
+    },
+    {
+        "produto_id": 2,
+        "produto_nome": "Maracujá",
+        "comercio_id": 1,
+        "comercio_nome": "Eduardo Frutas"
+    }
+]

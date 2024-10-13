@@ -1,0 +1,14 @@
+[
+    {
+        "produt_id": 1,
+        "nome": "Goiaba",
+        "tipo": "Fruta",
+        "descricao": "Fruta tropical fresca de longo consumo no Brasil."
+    },
+    {
+        "produt_id": 2,
+        "nome": "Maracujá",
+        "tipo": "Fruta",
+        "descricao": "Ajuda a se acalmar ao fazer o suco!"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "produtor_id": 13,
+        "produtor_nome": "Carlos da Silva",
+        "comercio_id": 1,
+        "comercio_nome": "Eduardo Frutas"
+    },
+    {
+        "produtor_id": 18,
+        "produtor_nome": "Murilo hugo",
+        "comercio_id": 1,
+        "comercio_nome": "Eduardo Frutas"
+    }
+]
